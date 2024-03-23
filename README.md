@@ -19,11 +19,11 @@ My [Kaggle profile](https://www.kaggle.com/barirahzainal) reflects my ongoing co
 
 # Github Workspace
 
-My [Machine Learning Project]([https://www.kaggle.com/barirahzainal](https://github.com/shasha0982/My_Real_Project_Machine_Learning))
+My [Machine Learning Project] - https://github.com/shasha0982/My_Real_Project_Machine_Learning
 
-My [Data Science Project]([(https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official))
+My [Data Science Project] - https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official
 
-My [Prompt Engineering Project]([(https://github.com/shasha0982/my_official_prompt_engineering)])
+My [Prompt Engineering Project] - https://github.com/shasha0982/my_official_prompt_engineering
 
 
 ## Skills and Technologies
