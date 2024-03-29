@@ -6,15 +6,21 @@ Welcome to my GitHub portfolio! I'm Barirah, a passionate developer specializing
 
 ## Telegram Bots
 
-[AlynaOfficial Bot](t.me/alynaofficial_bot)
+[AlynaOfficial Bot]
+
+t.me/alynaofficial_bot
+
 This Telegram bot is designed to interaction like human chat and you can ask more question with alyna. It demonstrates my ability to integrate APIs, manage user interactions, and implement AI-driven responses.
 
-[TestHelper Bot](t.me/testhelper00001_bot)
+[TestHelper Bot]
+
+t.me/testhelper00001_bot
+
 Developed to solving customer problem faced when they want to shopping online, this bot showcases my skills in customer services and ai prompt . 
 
 ## Kaggle Workspace
 
-My [Kaggle profile](https://www.kaggle.com/barirahzainal) reflects my ongoing commitment to improving my data sciences and machine learning skills.  You can see all the project at my kaggle profile . Each project on my Kaggle profile contributes to my broader understanding of machine learning landscapes and data-driven problem-solving.
+My [Kaggle profile] https://www.kaggle.com/barirahzainal reflects my ongoing commitment to improving my data sciences and machine learning skills.  You can see all the project at my kaggle profile . Each project on my Kaggle profile contributes to my broader understanding of machine learning landscapes and data-driven problem-solving.
 
 
 # Github Workspace
