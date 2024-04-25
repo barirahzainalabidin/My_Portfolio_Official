@@ -29,8 +29,7 @@ My [Machine Learning Project] - https://github.com/shasha0982/My_Real_Project_Ma
 
 My [Data Science Project] - https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official
 
-My [Prompt Engineering Project] - https://github.com/shasha0982/my_official_prompt_engineering
-
+My [Natural Language Processing (NLP) Project] - https://github.com/shasha0982/Natural-Language-Processing-NLP-Machine-Learning
 
 ## Skills and Technologies
 
