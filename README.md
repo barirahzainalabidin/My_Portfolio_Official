@@ -65,6 +65,8 @@ microsoft learn - https://learn.microsoft.com/en-us/training/
 
 edx - https://www.edx.org/
 
+Intel - https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-deep-learning.html
+
 
 
 # Virtual Internship 
