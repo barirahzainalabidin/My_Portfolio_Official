@@ -25,17 +25,25 @@ My [Kaggle profile] https://www.kaggle.com/barirahzainal reflects my ongoing com
 
 # Github Workspace
 
-My [Machine Learning Project] - https://github.com/shasha0982/My_Real_Project_Machine_Learning
+[Machine Learning Project] - https://github.com/shasha0982/My_Real_Project_Machine_Learning
 
-My [Data Science Project] - https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official
+[Data Science Project] - https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official
 
-My [Natural Language Processing (NLP) Project] - https://github.com/shasha0982/Natural-Language-Processing-NLP-Machine-Learning
+[Natural Language Processing (NLP) Project] - https://github.com/shasha0982/Natural-Language-Processing-NLP-Machine-Learning
 
-My [Data Analysis Project] - https://github.com/shasha0982/Data-Analysis-Project
+[Data Analysis Project using Data Prep AI] - https://github.com/shasha0982/Data-Analysis-Project
 
-My [Data Cleaning] - https://github.com/shasha0982/Data-Cleaning
+[Data Cleaning] - https://github.com/shasha0982/Data-Cleaning
 
-My [Deployment ML using streamlit] - https://github.com/shasha0982/My_Deployment_Project
+[Deployment ML using streamlit] - https://github.com/shasha0982/My_Deployment_Project
+
+[Power BI] - coming soon
+
+[Looker Studio] - coming soon
+
+[pyCaret] - coming soon
+
+[spaCy] - coming soon
 
 
 ## Skills and Technologies
