@@ -35,7 +35,7 @@ My [Natural Language Processing (NLP) Project] - https://github.com/shasha0982/N
 
 - **Programming Languages**: Python
 - **Libraries/Frameworks**: TensorFlow, Scikit-Learn, Pandas, NumPy, Keras
-- **Tools**: GitHub, Kaggle, Jupyter Notebooks, CHATGPT-4 , GEMINI ADVANCED, CLAUDE AI, HUGGINGFACE, LLM
+- **Tools**: GitHub, Kaggle, Jupyter Notebooks, spaCy, pyCaret, Data Prep Ai,  CHATGPT-4 , GEMINI ADVANCED, CLAUDE AI, HUGGINGFACE, LLM.
 - **Other**: Deep understanding of machine learning algorithms, data visualization, API integration, bot development with ai tools
 
 
