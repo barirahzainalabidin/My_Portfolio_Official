@@ -33,6 +33,10 @@ My [Natural Language Processing (NLP) Project] - https://github.com/shasha0982/N
 
 My [Data Analysis Project] - https://github.com/shasha0982/Data-Analysis-Project
 
+My [Data Cleaning] - https://github.com/shasha0982/Data-Cleaning
+
+My [Deployment ML using streamlit] - https://github.com/shasha0982/My_Deployment_Project
+
 
 ## Skills and Technologies
 
