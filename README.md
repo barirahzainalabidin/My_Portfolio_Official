@@ -31,6 +31,9 @@ My [Data Science Project] - https://github.com/shasha0982/My_Real_Project_Data_S
 
 My [Natural Language Processing (NLP) Project] - https://github.com/shasha0982/Natural-Language-Processing-NLP-Machine-Learning
 
+My [Data Analysis Project] - https://github.com/shasha0982/Data-Analysis-Project
+
+
 ## Skills and Technologies
 
 - **Programming Languages**: Python
