@@ -66,6 +66,8 @@ ml course ai - https://www.kaggle.com/kashnitsky/mlcourse
 
 Pradip Nitchite - https://github.com/PradipNichite
 
+Alex The Data Analyst
+
 Kaggle - https://www.kaggle.com/
 
 microsoft learn - https://learn.microsoft.com/en-us/training/
