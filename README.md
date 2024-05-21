@@ -25,15 +25,18 @@ My [Kaggle profile] https://www.kaggle.com/barirahzainal reflects my ongoing com
 
 # Github Workspace
 
-[My Various Project Data Science & Machine Learning] - https://github.com/shasha0982/Project_Field/blob/main/README.md
 
-[Power BI] - coming soon
+Data Science & Machine Learning - https://github.com/shasha0982/Project_Field/blob/main/README.md
 
-[Looker Studio] - coming soon
+SQL  - https://github.com/shasha0982/SQL ( coming soon )
 
-[pyCaret] - coming soon
+Power BI - coming soon
 
-[spaCy] - coming soon
+Looker Studio - coming soon
+
+pyCaret - coming soon
+
+spaCy - coming soon
 
 
 ## Skills and Technologies
