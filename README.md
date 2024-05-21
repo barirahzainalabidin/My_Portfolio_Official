@@ -25,17 +25,7 @@ My [Kaggle profile] https://www.kaggle.com/barirahzainal reflects my ongoing com
 
 # Github Workspace
 
-[Machine Learning Project] - https://github.com/shasha0982/My_Real_Project_Machine_Learning
-
-[Data Science Project] - https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official
-
-[Natural Language Processing (NLP) Project] - https://github.com/shasha0982/Natural-Language-Processing-NLP-Machine-Learning
-
-[Data Analysis Project using Data Prep AI] - https://github.com/shasha0982/Data-Analysis-Project
-
-[Data Cleaning] - https://github.com/shasha0982/Data-Cleaning
-
-[Deployment ML using streamlit] - https://github.com/shasha0982/My_Deployment_Project
+[My Various Project Data Science & Machine Learning] - https://github.com/shasha0982/Project_Field/blob/main/README.md
 
 [Power BI] - coming soon
 
