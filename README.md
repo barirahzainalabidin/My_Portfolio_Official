@@ -40,6 +40,8 @@ spaCy - coming soon
 
 Explanation Projects - https://github.com/shasha0982/Explaination-Project- ( coming soon )
 
+Deployment / My AI Website Projects - https://github.com/shasha0982/My_Deployment_Project/blob/main/README.md
+
 
 ## Skills and Technologies
 
