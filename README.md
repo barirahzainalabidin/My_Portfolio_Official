@@ -30,7 +30,7 @@ Data Science & Machine Learning - https://github.com/shasha0982/Project_Field/bl
 
 SQL  - https://github.com/shasha0982/SQL ( coming soon )
 
-Power BI - coming soon
+Power BI - https://github.com/shasha0982/Power-BI/blob/main/README.md (coming soon)
 
 Looker Studio - https://github.com/shasha0982/Looker-Studio/blob/main/README.md (coming soon)
 
