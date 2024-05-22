@@ -32,7 +32,7 @@ SQL  - https://github.com/shasha0982/SQL ( coming soon )
 
 Power BI - coming soon
 
-Looker Studio - coming soon
+Looker Studio - https://github.com/shasha0982/Looker-Studio/blob/main/README.md (coming soon)
 
 pyCaret - coming soon
 
