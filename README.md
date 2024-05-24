@@ -36,6 +36,8 @@ Looker Studio - https://github.com/shasha0982/Looker-Studio/blob/main/README.md 
 
 pyCaret - coming soon
 
+Neptune AI - coming soon
+
 spaCy - coming soon
 
 Explanation Projects - https://github.com/shasha0982/Explaination-Project- ( coming soon )
@@ -53,6 +55,9 @@ Machine Learning Studio - ( coming soon )
 
 
 AI Studio - ( coming soon ) 
+
+
+Custom Text Classification, NER, Translation, etc - ( coming soon )
 
 
 
