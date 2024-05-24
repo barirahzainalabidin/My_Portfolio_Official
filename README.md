@@ -57,7 +57,7 @@ Machine Learning Studio - ( coming soon )
 AI Studio - ( coming soon ) 
 
 
-Custom Text Classification, NER, Translation, etc - ( coming soon )
+Custom Text Classification, NER, Translation - ( coming soon )
 
 
 
