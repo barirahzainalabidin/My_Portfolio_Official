@@ -28,10 +28,6 @@ My [Kaggle profile] https://www.kaggle.com/barirahzainal reflects my ongoing com
 
 Data Science & Machine Learning - https://github.com/shasha0982/Project_Field/blob/main/README.md
 
-
-Language Cognitive Azure (microsoft azure language studio) - https://github.com/shasha0982/Language-Cognitive-Azure/tree/main
-
-
 SQL  - https://github.com/shasha0982/SQL ( coming soon )
 
 Power BI - https://github.com/shasha0982/Power-BI/blob/main/README.md (coming soon)
@@ -45,6 +41,19 @@ spaCy - coming soon
 Explanation Projects - https://github.com/shasha0982/Explaination-Project- ( coming soon )
 
 Deployment / My AI Website Projects - https://github.com/shasha0982/My_Deployment_Project/blob/main/README.md
+
+
+
+#  Microsoft Azure 
+
+
+Language Cognitive Azure (microsoft azure language studio) - https://github.com/shasha0982/Language-Cognitive-Azure/tree/main
+
+Machine Learning Studio - ( coming soon )
+
+
+AI Studio - ( coming soon ) 
+
 
 
 ## Skills and Technologies
