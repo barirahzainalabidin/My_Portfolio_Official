@@ -51,7 +51,7 @@ Deployment / My AI Website Projects - https://github.com/shasha0982/My_Deploymen
 
 Language Cognitive Azure (microsoft azure language studio) - https://github.com/shasha0982/Language-Cognitive-Azure/tree/main
 
-Machine Learning Studio - ( coming soon )
+Machine Learning Studio - https://github.com/shasha0982/Microsoft-Azure-Machine-Learning/blob/main/README.md
 
 
 AI Studio - ( coming soon ) 
