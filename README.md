@@ -44,7 +44,7 @@ Neptune AI - coming soon
 
 spaCy - coming soon
 
-Natural Language Processing ( NLP ) - coming soon
+Natural Language Processing ( NLP ) - https://github.com/shasha0982/Natural-Language-Processing-NLP-Machine-Learning
 
 Explanation Projects - https://github.com/shasha0982/Explaination-Project- ( coming soon )
 
