@@ -32,13 +32,19 @@ SQL  - https://github.com/shasha0982/SQL ( coming soon )
 
 Power BI - https://github.com/shasha0982/Power-BI/blob/main/README.md (coming soon)
 
-Looker Studio - https://github.com/shasha0982/Looker-Studio/blob/main/README.md (coming soon)
-
 pyCaret - coming soon
+
+Pytorch - coming soon
+
+Tensorflow - coming soon
+
+Keras - coming soon 
 
 Neptune AI - coming soon
 
 spaCy - coming soon
+
+Natural Language Processing ( NLP ) - coming soon
 
 Explanation Projects - https://github.com/shasha0982/Explaination-Project- ( coming soon )
 
