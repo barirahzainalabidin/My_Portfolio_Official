@@ -108,6 +108,8 @@ edx - https://www.edx.org/
 
 Intel - https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-deep-learning.html
 
+O'Reilly - https://www.oreilly.com/
+
 
 
 # Virtual Internship 
