@@ -46,8 +46,6 @@ spaCy - coming soon
 
 Natural Language Processing ( NLP ) - https://github.com/shasha0982/Natural-Language-Processing-NLP-Machine-Learning
 
-Explanation Projects - https://github.com/shasha0982/Explaination-Project- ( coming soon )
-
 Deployment / My AI Website Projects - https://github.com/shasha0982/My_Deployment_Project/blob/main/README.md
 
 
