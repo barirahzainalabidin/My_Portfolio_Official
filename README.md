@@ -117,9 +117,11 @@ I finished virtual internship through forage website > https://www.theforage.com
 
 Certificate - https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_Hh5nzeaK8pgbuuBhD_1715655704077_completion_certificate.pdf
 
+
 2. Accenture - Data Analysis & Visualization ( in progress )
 
 https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
+
 
 
 3. Commonwealth Bank - Intro to data science ( in progress )
@@ -127,9 +129,10 @@ https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
 https://www.theforage.com/simulations/commonwealth-bank/intro-data-science-sd7t
 
 
-4. BCG-X - Data Science ( in progress )
 
-https://www.theforage.com/simulations/bcg/data-science-ccdz
+4. BCG-X - Data Science ( completed )  - https://www.theforage.com/simulations/bcg/data-science-ccdz
+
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_Hh5nzeaK8pgbuuBhD_1717119601568_completion_certificate.pdf
 
 
 5. Quantium - Data Analytics ( in progress )
@@ -137,9 +140,11 @@ https://www.theforage.com/simulations/bcg/data-science-ccdz
 https://www.theforage.com/simulations/quantium/data-analytics-rqkb
 
 
+
 6. TATA - Data Visualization ( in progress )
 
 https://www.theforage.com/simulations/tata/data-visualisation-p5xo
+
 
 
 ## Let's Connect
