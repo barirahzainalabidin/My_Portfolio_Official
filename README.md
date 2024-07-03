@@ -20,7 +20,7 @@ Developed to solving customer problem faced when they want to shopping online, t
 
 ## Kaggle Workspace
 
-My [Kaggle profile] https://www.kaggle.com/barirahzainal reflects my ongoing commitment to improving my data sciences and machine learning skills.  You can see all the project at my kaggle profile . Each project on my Kaggle profile contributes to my broader understanding of machine learning landscapes and data-driven problem-solving.
+My Kaggle profile - https://www.kaggle.com/barirahzainal reflects my ongoing commitment to improving my data sciences and machine learning skills.  You can see all the project at my kaggle profile . Each project on my Kaggle profile contributes to my broader understanding of machine learning landscapes and data-driven problem-solving.
 
 
 # Github Workspace
@@ -28,25 +28,63 @@ My [Kaggle profile] https://www.kaggle.com/barirahzainal reflects my ongoing com
 
 Data Science & Machine Learning - https://github.com/shasha0982/Project_Field/blob/main/README.md
 
-SQL  - https://github.com/shasha0982/SQL ( coming soon )
-
-Power BI - https://github.com/shasha0982/Power-BI/blob/main/README.md (coming soon)
-
-pyCaret - coming soon
-
-Pytorch - coming soon
-
-Tensorflow - coming soon
-
-Keras - coming soon 
-
-Neptune AI - coming soon
-
-spaCy - coming soon
-
 Natural Language Processing ( NLP ) - https://github.com/shasha0982/Natural-Language-Processing-NLP-Machine-Learning
 
 Deployment / My AI Website Projects - https://github.com/shasha0982/My_Deployment_Project/blob/main/README.md
+
+
+
+# Competition Kaggle 
+
+
+# Learning Agency Lab - Automated Essay Scoring 2.0 Using Cohen Kappa Metric Calculation
+
+
+Dataset - https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2
+
+Best Score : 0.790 - https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-sub-3 (keras)
+
+Best Score : 0.771 - https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-submission-17
+
+Best Score : 0.760 - https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-final-8
+
+Best Score : 0.759 - https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-final-13 
+
+Best Score : 0.754 - https://www.kaggle.com/code/barirahzainal/my-learning-agency-lab-subs-8 (keras/tensorflow)
+
+Best Score : 0.662 - https://www.kaggle.com/code/barirahzainal/my-project-learning-agency-lab-subs-7 (scikit-learn)
+
+
+
+
+# LMSYS - Chatbot Arena Human Preference Predictions Using Log Loss
+
+
+Dataset - https://www.kaggle.com/competitions/lmsys-chatbot-arena/overview
+
+
+Public Score : 1.098 - https://www.kaggle.com/code/barirahzainal/my-project-lmsys-submission-8
+
+Public Score : 1.114 - https://www.kaggle.com/code/barirahzainal/my-project-lmsys-submission-1
+
+
+
+# ARC Prize 2024
+
+Dataset - https://www.kaggle.com/competitions/arc-prize-2024/data
+
+Public Score : 0.00 - https://www.kaggle.com/code/barirahzainal/my-project-arc-prize-2024-subs-1
+
+
+
+# Instacart Market Basket Analysis
+
+
+Dataset - https://www.kaggle.com/competitions/instacart-market-basket-analysis
+
+F1 Score: 0.7886769553826808 - https://www.kaggle.com/code/barirahzainal/my-project-instacart-market-basket-analysis-1
+
+
 
 
 
@@ -58,15 +96,9 @@ Language Cognitive Azure (microsoft azure language studio) - https://github.com/
 Machine Learning Studio - https://github.com/shasha0982/Microsoft-Azure-Machine-Learning/blob/main/README.md
 
 
-AI Studio - ( coming soon ) 
 
 
-Custom Text Classification, NER, Translation - ( coming soon )
-
-
-
-# Huggingface
-
+# AWS 
 
 
 
