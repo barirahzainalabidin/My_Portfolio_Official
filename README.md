@@ -2,7 +2,7 @@
 
 # Barirah Zainal Abidin 
 
-Welcome to my GitHub portfolio! I'm Barirah, a passionate developer specializing in machine learning, data science, data analysis, bot development and ai prompt. Here, you'll find projects that showcase my journey in leveraging AI to solve real-world problems, including creating intelligent Telegram bots and data analysis on Kaggle.
+Welcome to my GitHub portfolio! I'm Barirah, a passionate developer specializing in machine learning, data science, data analysis, bot development and ai prompt. Here, you'll find projects that showcase my journey in leveraging AI to solve real-world problems, including data analysis and machine learning on Kaggle.
 
 
 ## Kaggle Workspace
