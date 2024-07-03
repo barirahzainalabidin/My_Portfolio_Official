@@ -24,7 +24,7 @@ Deployment / My AI Website Projects - https://github.com/shasha0982/My_Deploymen
 # Competition Kaggle 
 
 
-# Learning Agency Lab - Automated Essay Scoring 2.0 Using Cohen Kappa Metric Calculation
+# Learning Agency Lab - Automated Essay Scoring 2.0 Using Cohen Kappa Metric
 
 
 Dataset - https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2
@@ -56,7 +56,7 @@ Public Score : 1.114 - https://www.kaggle.com/code/barirahzainal/my-project-lmsy
 
 
 
-# ARC Prize 2024
+# ARC Prize 2024 
 
 Dataset - https://www.kaggle.com/competitions/arc-prize-2024/data
 
@@ -64,7 +64,7 @@ Public Score : 0.00 - https://www.kaggle.com/code/barirahzainal/my-project-arc-p
 
 
 
-# Instacart Market Basket Analysis
+# Instacart Market Basket Analysis Using F1 Score Metric 
 
 
 Dataset - https://www.kaggle.com/competitions/instacart-market-basket-analysis
