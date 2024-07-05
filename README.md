@@ -88,6 +88,7 @@ Machine Learning Studio - https://github.com/shasha0982/Microsoft-Azure-Machine-
 # AWS 
 
 
+Canvas - https://github.com/shasha0982/AWS-Machine-Learning/tree/main
 
 
 ## Skills and Technologies
