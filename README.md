@@ -56,6 +56,11 @@ Public Score : 1.114 - https://www.kaggle.com/code/barirahzainal/my-project-lmsy
 
 
 
+# RSNA 2024 Lumbar Spine Degenerative Classification Using Log Loss Metric
+
+
+
+
 # ARC Prize 2024 
 
 Dataset - https://www.kaggle.com/competitions/arc-prize-2024/data
@@ -69,7 +74,7 @@ Public Score : 0.00 - https://www.kaggle.com/code/barirahzainal/my-project-arc-p
 
 Dataset - https://www.kaggle.com/competitions/instacart-market-basket-analysis
 
-F1 Score: 0.7886769553826808 - https://www.kaggle.com/code/barirahzainal/my-project-instacart-market-basket-analysis-1
+F1 Score: 0.78- https://www.kaggle.com/code/barirahzainal/my-project-instacart-market-basket-analysis-1
 
 
 
