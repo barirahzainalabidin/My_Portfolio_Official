@@ -60,6 +60,23 @@ Public Score : 1.114 - https://www.kaggle.com/code/barirahzainal/my-project-lmsy
 # RSNA 2024 Lumbar Spine Degenerative Classification Using Log Loss Metric
 
 
+Dataset - https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification
+
+Public Score : 4.18 - https://www.kaggle.com/code/barirahzainal/my-project-rsna-2024-submission-2
+
+
+
+
+# ISIC 2024 - Skin Cancer Detection with 3D-TBP Using Probability Maglinant
+
+
+Dataset - https://www.kaggle.com/competitions/isic-2024-challenge
+
+Public Score : 0.023 - https://www.kaggle.com/code/barirahzainal/my-isic-2024-submission-7
+
+Public Score : 0.020 - https://www.kaggle.com/code/barirahzainal/my-isic-2024-submission-6
+
+
 
 
 # ARC Prize 2024 
