@@ -10,17 +10,6 @@ Welcome to my GitHub portfolio! I'm Barirah, a passionate developer specializing
 My Kaggle profile - https://www.kaggle.com/barirahzainal reflects my ongoing commitment to improving my data sciences and machine learning skills. 
 
 
-# Github Workspace
-
-
-Data Science & Machine Learning - https://github.com/shasha0982/Project_Field/blob/main/README.md
-
-Natural Language Processing ( NLP ) - https://github.com/shasha0982/Natural-Language-Processing-NLP-Machine-Learning
-
-Deployment / My AI Website Projects - https://github.com/shasha0982/My_Deployment_Project/blob/main/README.md
-
-
-
 # Competition Kaggle 
 
 
