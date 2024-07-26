@@ -78,13 +78,11 @@ Public Score : 0.00 - https://www.kaggle.com/code/barirahzainal/my-project-arc-p
 
 
 
-# Instacart Market Basket Analysis Using F1 Score Metric 
+# Santander Customer Transaction Prediction
 
+Dataset - https://www.kaggle.com/competitions/santander-customer-transaction-prediction
 
-Dataset - https://www.kaggle.com/competitions/instacart-market-basket-analysis
-
-F1 Score: 0.78- https://www.kaggle.com/code/barirahzainal/my-project-instacart-market-basket-analysis-1
-
+Public Score - 0.87489 - https://www.kaggle.com/code/barirahzainal/my-project-santander-customer-h2o-automl
 
 
 
