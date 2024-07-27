@@ -91,6 +91,8 @@ Public Score : 0.87 - https://www.kaggle.com/code/barirahzainal/my-project-santa
 
 Dataset - https://www.kaggle.com/competitions/titanic
 
+Public Score - 1.0 - https://www.kaggle.com/code/barirahzainal/my-project-titanic-submission-3
+
 Public Score : 0.78 - https://www.kaggle.com/code/barirahzainal/my-project-titanic-submission-1
 
 Public Score : 0.76 - https://www.kaggle.com/code/barirahzainal/my-project-titanic-submission-2
