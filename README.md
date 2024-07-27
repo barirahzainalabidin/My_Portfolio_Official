@@ -82,8 +82,18 @@ Public Score : 0.00 - https://www.kaggle.com/code/barirahzainal/my-project-arc-p
 
 Dataset - https://www.kaggle.com/competitions/santander-customer-transaction-prediction
 
-Public Score - 0.87489 - https://www.kaggle.com/code/barirahzainal/my-project-santander-customer-h2o-automl
+Public Score : 0.87 - https://www.kaggle.com/code/barirahzainal/my-project-santander-customer-h2o-automl
 
+
+
+# Titanic - Machine Learning from Disaster
+
+
+Dataset - https://www.kaggle.com/competitions/titanic
+
+Public Score : 0.78 - https://www.kaggle.com/code/barirahzainal/my-project-titanic-submission-1
+
+Public Score : 0.76 - https://www.kaggle.com/code/barirahzainal/my-project-titanic-submission-2
 
 
 
