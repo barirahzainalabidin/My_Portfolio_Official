@@ -99,20 +99,13 @@ Public Score : 0.76 - https://www.kaggle.com/code/barirahzainal/my-project-titan
 
 
 
-#  Microsoft Azure 
+#  Microsoft Azure / AWS
 
 
 Language Cognitive Azure (microsoft azure language studio) - https://github.com/shasha0982/Language-Cognitive-Azure/tree/main
 
 Machine Learning Studio - https://github.com/shasha0982/Microsoft-Azure-Machine-Learning/blob/main/README.md
 
-
-
-
-# AWS 
-
-
-Canvas - https://github.com/shasha0982/AWS-Machine-Learning/tree/main
 
 
 ## Skills and Technologies
