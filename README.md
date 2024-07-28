@@ -99,7 +99,7 @@ Public Score : 0.76 - https://www.kaggle.com/code/barirahzainal/my-project-titan
 
 
 
-# MLOPS - NEPTUNE AI
+# MLOps - Neptune AI
 
 
 
