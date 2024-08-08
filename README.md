@@ -11,6 +11,10 @@ My Kaggle profile - https://www.kaggle.com/barirahzainal reflects my ongoing com
 
 
 
+
+# Kaggle Competitions
+
+
 # Data Analysis 
 
 
@@ -106,7 +110,7 @@ My Kaggle profile - https://www.kaggle.com/barirahzainal reflects my ongoing com
 
 
 
-# Competition Kaggle 
+# Machine Learning 
 
 
 # Learning Agency Lab - Automated Essay Scoring 2.0 Using Cohen Kappa Metric
